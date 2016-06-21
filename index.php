@@ -2,3 +2,5 @@
 
 // PHP info
 phpinfo();
+
+// New code
